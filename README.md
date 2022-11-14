@@ -1,7 +1,7 @@
 # webboosterTZ
 
 <h1 align="center">🇬🇧 Hi there, I'm Pavel</h1>
-<h3 align="center">And this my test for WebBosters combany</h3>
+<h3 align="center">And this my test for WebBosters company</h3>
 <h3>What I realised:</h3>
 <ul>
 <li>HTML + CSS</li>
